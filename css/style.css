@@ -1,0 +1,282 @@
+body {
+    background-color: #ffffff;
+    font-family: 'Oswald', sans-serif;
+    font-size: bold;
+}
+
+header h1 {
+    font-family:'Roboto', sans-serif;
+}
+
+.top-bar {
+    border-top: 2px solid #0aa6b3;
+    padding-top: 5px;
+    position: absolute;
+    background-color: #e6e6e6;
+    top: 0;left: 0;
+    width: 100%;
+}
+
+.top-bar ul {
+    list-style: none;
+    padding-left: 0;
+    float: left;
+}
+
+.top-bar li {
+    display: inline;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+
+.top-bar li a {
+    text-decoration: none;
+    text-decoration-color: #c8c8c8;
+    color: #a8a8a8;
+}
+
+.top-bar p {
+    text-align: right;
+}
+
+.logo_nav {
+    position: relative;
+    padding-top: 30px;
+}
+
+.language_checkout ul {
+    list-style: none;
+    text-align: right;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.language_checkout li {
+    display: inline;
+}
+
+.language_checkout a {
+    text-decoration: none;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav li {
+    display: inline;
+    padding-right: 33px;
+}
+
+nav a {
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+
+nav a:hover {
+    color: #13bfcb;
+    text-decoration: none;
+}
+
+.searchbar {
+    float: right;
+}
+
+.fa-search {
+    background-color: rgb(197, 197, 197);
+    padding: 6px;
+}
+
+.logo_nav span {
+    color:white;
+    border-radius: 20px;
+    background-color: #13bfcb;
+}
+
+.language_checkout li:last-child a {
+    background-color: #13bfcb;
+    padding: 6px;
+    color: white;
+}
+
+.language_checkout li {
+    padding-left: 5px;
+}
+
+.currency {
+    position: absolute;
+    right: 250px;
+    bottom: 35px;
+}
+
+.currency select {
+    background-color: #d6d6d6;
+    padding: 3px 6px;
+}
+
+.languages {
+    position: absolute;
+    right: 140px;
+    bottom: 35px;
+}
+
+.languages select {
+    background-color: #d6d6d6;
+    padding: 3px 6px;
+}
+
+.language_checkout a {
+    background-color: #a8a8a8;
+    padding: 6px;
+    color: gray;
+}
+
+.hero-text {
+    margin-top: 130px;
+}
+
+#new {
+    background-color: #13bfcb;
+    color: white;
+    padding: 6px;
+    margin-bottom: -20px;
+    width: 100px;
+    height: 44px;
+}
+
+#men {
+    background-color: #454b4b;
+    color: white;
+    padding: 6px;
+    width: 230px;
+}
+
+.hero-text a {
+    background-color: #454b4b;
+    color: white;
+    text-decoration: none;
+    padding: 6px;  
+}
+
+.hero img {
+    width: 1000px;
+    height: 500px;
+}
+
+.button {
+    float: right;
+    margin-top: 30px;
+}
+
+.block {
+    position: relative;
+}
+
+.percentsquare {
+    position: absolute;
+    background-color: #f9048b;
+    color: white;
+    padding: 2px 8px;
+}
+
+.cost {
+    position: absolute;
+    background-color: #13bfcb;
+    border-radius: 50px;
+    padding: 30px;
+    bottom: 0;right: 0;
+    color: white;
+}
+
+.newtag {
+    position: absolute;
+    background-color: #0aa6b3;
+    color: white;
+    padding: 2px 8px;
+}
+
+.clothes img {
+    width: 250px;
+    height: 230px;
+}
+
+.clothes a {
+    text-align: center;
+    background-color: #434b4d;
+    padding: 6px;
+    text-decoration: none;
+    text-decoration-color: white;
+    color: white;
+}
+
+.clothes {
+    margin-bottom: 30px;
+}
+
+.items img {
+    width: 260px;
+    height: 223px;
+}
+
+.signup {
+    background-color: #d6d6d6;
+}
+
+.hero {
+    background: rgb(227,226,224);
+background: linear-gradient(180deg, rgba(227,226,224,1) 0%, rgba(255,255,255,1) 48%, rgba(213,213,211,1) 100%);
+margin-bottom: 30px;
+}
+
+.line {
+    width: 919px;
+    border: 2px lightgray solid;
+    position: absolute;
+    margin-left: 180px;
+    margin-top: 42px;
+}
+
+
+.items a {
+    text-align: center;
+    background-color: #434b4d;
+    padding: 6px;
+    text-decoration: none;
+    text-decoration-color: white;
+    color: white;
+}
+
+.shoe_block {
+    margin-bottom: 40px;
+}
+
+.manufacturer {
+    margin-top: 50px;
+}
+
+.brand_logo {
+    padding-bottom: 80px;
+}
+
+.prefooter {
+    background-color: #434b4d;
+    padding-bottom: 30px;
+}
+
+.signup a {
+    background-color: #434b4d;
+    padding: 2px 8px;
+    text-decoration: none;
+    color: white;
+}
+
+.prefooter li {
+    padding: 8px 0;
+}
+
+.prefooter ul {
+    margin: 0;
+    padding: 0;
+}
